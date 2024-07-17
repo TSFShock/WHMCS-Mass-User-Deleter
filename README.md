@@ -117,6 +117,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to replace `url-to-filter-example.png`, `url-to-select-accounts-example.png`, and `url-to-delete-accounts-example.png` with the actual URLs to your screenshots or images. If you need further customization or additional sections, let me know!
