@@ -37,19 +37,15 @@ Here's a comprehensive GitHub README for your WHMCS addon:
 
 2. **Filter Accounts:**
    - Use the filter options to display active or inactive accounts, or show all accounts.
-   - Example:
-     ![Filter Example](url-to-filter-example.png)
 
 3. **Select Accounts:**
    - Check the boxes next to the accounts you wish to delete.
-   - Example:
-     ![Select Accounts Example](url-to-select-accounts-example.png)
+  
 
 4. **Delete Accounts:**
    - Click the "Delete Selected Accounts" button.
    - Confirm the deletion when prompted.
-   - Example:
-     ![Delete Accounts Example](url-to-delete-accounts-example.png)
+  
 
 ## Code Overview
 
