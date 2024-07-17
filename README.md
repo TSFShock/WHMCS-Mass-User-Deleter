@@ -1,6 +1,3 @@
-Here's a comprehensive GitHub README for your WHMCS addon:
-
----
 
 # Mass Delete Accounts WHMCS Addon
 
