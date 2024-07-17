@@ -9,7 +9,7 @@ function massDeleteAccounts_config() {
         'name' => 'Mass Delete Accounts',
         'description' => 'An addon to mass delete multiple accounts in WHMCS.',
         'version' => '1.1',
-        'author' => 'Your Name',
+        'author' => 'Bailey Shelhorse',
         'fields' => []
     ];
 }
