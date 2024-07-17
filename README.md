@@ -46,20 +46,6 @@
 
 ## Code Overview
 
-### Configuration
-
-```php
-function massDeleteAccounts_config() {
-    return [
-        'name' => 'Mass Delete Accounts',
-        'description' => 'An addon to mass delete multiple accounts in WHMCS.',
-        'version' => '1.1',
-        'author' => 'Your Name',
-        'fields' => []
-    ];
-}
-```
-
 ### Activation and Deactivation
 
 ```php
